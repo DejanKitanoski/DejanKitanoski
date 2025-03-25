@@ -3,12 +3,7 @@
 <h2 align="left">Hi 👋! My name is Dejan and I'm a student, from Macedonia</h2>
 
 ## 🌐 Socials:
-###
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZwcnoxOWdlMmdkcmYzMWoxMTU0OTg2dzFua2hkbmJzM3Q2eWZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif"  />
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DejanKitanoski&show_icons=true&locale=en&layout=compact" alt="DejanKitanoski" /></p>
-
-###
 
 <div align="left">
   <a href="https://x.com/DKitanoski" target="_blank">
@@ -19,8 +14,7 @@
   </a>
 </div>
 
-###
-###
+
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
