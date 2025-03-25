@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZwcnoxOWdlMmdkcmYzMWoxMTU0OTg2dzFua2hkbmJzM3Q2eWZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif"  />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DejanKitanoski&show_icons=true&locale=en&layout=compact" alt="DejanKitanoski" /></p>
 
 ###
 
