@@ -1,12 +1,11 @@
-
-<img align="right" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZwcnoxOWdlMmdkcmYzMWoxMTU0OTg2dzFua2hkbmJzM3Q2eWZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZwcnoxOWdlMmdkcmYzMWoxMTU0OTg2dzFua2hkbmJzM3Q2eWZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif"  />
 
 <h2 align="left">Hi 👋! My name is Dejan and I'm a student, from Macedonia</h2>
 
 ## 🌐 Socials:
 ###
 
-
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZwcnoxOWdlMmdkcmYzMWoxMTU0OTg2dzFua2hkbmJzM3Q2eWZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QKDpE67Rc7rpjBmQPj/giphy.gif"  />
 
 ###
 
