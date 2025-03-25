@@ -1,4 +1,4 @@
-<img  src="./Computer Coding GIF by davidvnun.gif" width="100px" />
+<img  src="./Computer Coding GIF by davidvnun.gif" width="100%" />
 
 <h2 align="left">Hi 👋! My name is Dejan and I'm a student, from Macedonia</h2>
 
